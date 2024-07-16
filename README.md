@@ -21,9 +21,11 @@ Desafio muito importante tanto pelo aprendizado quanto o conhecimento das tecnol
 
 ### Videos criados para o projeto.
 
-- [Apresentação](//Apresentação.mp4)
-- [Historia da IA](//Untitled%20video.mp4)
-- [Principais areas de aplicação das IAs](//Untitled%20video2.mp4)
+
+
+
+https://github.com/user-attachments/assets/8f59930d-8077-4e96-902d-3b068ba2fad7
+
 
 ## Links Interessantes
 
